@@ -30,7 +30,9 @@ https://vm.misp-project.org/  에서 vmware 이미지 설치가 가능하다
 
 스냅샷 찍고 VM 실행시키면 IP가 보인다
 
-![Untitled]()
+
+![Untitled (30)](https://github.com/user-attachments/assets/b4e61f8e-0617-452b-b2b3-7be5130a70ae)
+
 
 <br>
 
@@ -38,7 +40,8 @@ IP address 에 적힌 주소로 이동하면 MISP 사이트가 뜬다
 
 <br>
 
-![123]()
+![Untitled (31)](https://github.com/user-attachments/assets/e95e1388-042e-46eb-b717-b8a66dd0c875)
+
 
  [admin@admin.test](mailto:admin@admin.test) / admin 으로 로그인이 가능하다
 
@@ -46,7 +49,7 @@ IP address 에 적힌 주소로 이동하면 MISP 사이트가 뜬다
 
 ### Event 추가
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8fae81f3-c4f8-4700-aae9-fa557b2208ef/45e05d78-40f6-4eb4-8c8a-92e322b24ac1/Untitled.png)
+![Untitled (32)](https://github.com/user-attachments/assets/544c04c9-ec04-498d-b2c0-1725a7ae60d8)
 
 ### **Event 관련 위협 지표 추가**
 
